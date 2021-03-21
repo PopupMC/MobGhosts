@@ -1,0 +1,6 @@
+name: MobGhosts
+version: 1.0
+main: com.popupmc.mobghosts.MobGhosts
+description: Mob Ghosts
+author: junebug12851
+api-version: 1.16
